@@ -1,21 +1,6 @@
 # TUIC
 
-Delicately-TUICed 0-RTT proxy protocol
-
-A fork of original TUIC repo https://github.com/EAimTY/tuic
-
-> **Future plans**: 
-> *In order not to reinvent the wheel，I decide migrate `tuic-client` to [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs).*
-> *And for `tuic-server` [We](https://github.com/Watfaq) are about to create a rust equivalent implementation of singbox*
-
-Compared to origin, this fork's new features:
-- In-tree [docker image builds](https://github.com/Itsusinn/tuic/pkgs/container/tuic-server)
-- Up-to-date dependencies
-- More relaxed locks
-- More CI targets via [cross-rs](https://github.com/cross-rs/cross)
-- Self-signed cert and `skip_cert_verify` support
-- ServerCert auto hot-reload
-- And [more...](https://github.com/EAimTY/tuic/compare/dev...Itsusinn:tuic:dev)
+A useless fork of TUIC.
 
 ## Introduction
 
