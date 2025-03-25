@@ -1,6 +1,6 @@
 # uTUIC
 
-A useless fork of TUIC.
+uTUIC(useless TUIC), a useless fork of TUIC.
 
 ## Introduction
 
